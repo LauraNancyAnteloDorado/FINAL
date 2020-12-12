@@ -46,7 +46,7 @@ namespace Operaciones.Controllers
             {
                 return "Realizado por Laura Antelo";
             }
-            if (numero == 0)
+            if (numero >0)
             {
                 return "https://image.freepik.com/vector-gratis/numeros-cartel-imagen_1639-6453.jpg";
             }
